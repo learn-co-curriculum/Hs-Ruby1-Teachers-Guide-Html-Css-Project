@@ -54,7 +54,7 @@ PRESENTING
 + This is a good activity to get the students working in groups as a lead up to the final group projects. As developers, you rarely work in a vacuum, so being able to collaborate effectively with others is key to being a successful developer.
 
 ### Hints and Hurdles
-+ Remind students that html/css is a lot of playing and messing around and figuring things out by trial and error.
++ Remind students that HTML/CSS is a lot of playing and messing around and figuring things out by trial and error.
 + Make sure that group sizes for project aren't too big - 4 people MAX.
 + For advanced students, set minimum requirements: as long as you can do XYZ, then you can do JS, but you need to be able to explain basics first and have your partner explain them, too.
 
