@@ -61,3 +61,5 @@ PRESENTING
 ### On Learn
 + Student-facing [wireframing README.md](https://github.com/learn-co-curriculum/hs-wireframing).
 + Student-facing [storyboarding README.md](https://github.com/learn-co-curriculum/hs-storyboarding).
+
+<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-html-css-project' data-visibility='hidden'>View this lesson on Learn.co</a>
